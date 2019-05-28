@@ -1,0 +1,12 @@
+/*
+Theme Name: Karolína Marešová theme
+Theme URI: http://www.karolinamaresova.cz
+Author: Karolína Marešová
+Description: Toto je moje druhá šablona
+Text Domain: karolinamaresova.
+*/
+
+background-image: url("screenshot.jpg");
+body {
+  background-color: #ff1aff;
+}
